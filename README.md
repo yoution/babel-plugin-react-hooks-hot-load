@@ -2,7 +2,9 @@
 babel plugin for react hooks hot load
 
 ## Installing 
+```
 npm install babel-plugin-react-hooks-hot-load
+```
 
 ## Usage
 put before metro-babel7-plugin-react-transform
