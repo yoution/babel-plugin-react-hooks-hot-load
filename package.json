@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-react-hooks-hot-load",
+  "version": "1.0.0",
+  "description": "babel plugin for react hooks hot load",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoution/babel-plugin-react-hooks-hot-load.git"
+  },
+  "keywords": [
+    "babel plugin",
+    "react hooks",
+    "hot load",
+    "hmr"
+  ],
+  "author": "yoution",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoution/babel-plugin-react-hooks-hot-load/issues"
+  },
+  "homepage": "https://github.com/yoution/babel-plugin-react-hooks-hot-load#readme"
+}
